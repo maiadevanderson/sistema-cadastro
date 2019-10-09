@@ -1,0 +1,23 @@
+div.head{
+  border:3px solid #8AC007;
+  height : 250px;
+}
+div.content{
+  border:3px solid #8AC007;
+  height : 250px;
+}
+
+div.footer{
+  border:3px solid #8AC007;
+  height : 250px;
+  
+}
+
+div.frm_login{
+  
+    position: fixed; 
+    right: 0px;
+    width: 300px;
+    border:3px solid #8AC007;
+    padding: 10px;
+}
